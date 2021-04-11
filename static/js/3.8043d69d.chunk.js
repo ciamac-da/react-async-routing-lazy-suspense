@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-async-routing-lazy-suspense"]=this["webpackJsonpreact-async-routing-lazy-suspense"]||[]).push([[3],{36:function(s,e,n){"use strict";n.r(e);n(0);var t=n(1);e.default=function(s){return Object(t.jsx)("div",{children:Object(t.jsx)("h1",{children:"The Posts Page"})})}}}]);
+//# sourceMappingURL=3.8043d69d.chunk.js.map

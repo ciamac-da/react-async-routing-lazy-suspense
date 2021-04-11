@@ -1,2 +1,0 @@
-(this["webpackJsonpreact-async-routing-lazy-suspense"]=this["webpackJsonpreact-async-routing-lazy-suspense"]||[]).push([[0],{11:function(n,e,t){"use strict";t.r(e);var s=t(0),c=t.n(s),r=t(3),a=t.n(r),i=(t(8),t(9),t(1));var o=function(){return Object(i.jsx)("div",{className:"App"})};a.a.render(Object(i.jsx)(c.a.StrictMode,{children:Object(i.jsx)(o,{})}),document.getElementById("root"))},8:function(n,e,t){},9:function(n,e,t){}},[[11,1,2]]]);
-//# sourceMappingURL=main.d3182237.chunk.js.map

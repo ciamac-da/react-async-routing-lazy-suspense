@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/Posts.js"],"names":["posts","props"],"mappings":"6JAAA,uBAQeA,UAND,SAAAC,GAAK,OACjB,8BACE","file":"static/js/3.8043d69d.chunk.js","sourcesContent":["import React from 'react';\n\nconst posts = props => (\n  <div>\n    <h1>The Posts Page</h1>\n  </div>\n);\n\nexport default posts;\n"],"sourceRoot":""}

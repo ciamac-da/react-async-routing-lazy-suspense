@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/Welcome.js"],"names":["welcome","props"],"mappings":"6JAAA,uBAQeA,UANC,SAAAC,GAAK,OACnB,8BACE","file":"static/js/5.c3d01658.chunk.js","sourcesContent":["import React from 'react';\n\nconst welcome = props => (\n  <div>\n    <h1>The Welcome Page</h1>\n  </div>\n);\n\nexport default welcome;\n"],"sourceRoot":""}

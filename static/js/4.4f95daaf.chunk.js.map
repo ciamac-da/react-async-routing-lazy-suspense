@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/User.js"],"names":["user","props"],"mappings":"6JAAA,uBAQeA,UANF,SAAAC,GAAK,OAChB,8BACE","file":"static/js/4.4f95daaf.chunk.js","sourcesContent":["import React from 'react';\n\nconst user = props => (\n  <div>\n    <h1>The User Page</h1>\n  </div>\n);\n\nexport default user;\n"],"sourceRoot":""}
